@@ -1,5 +1,10 @@
 # Plakaty
 
+* XII 2020, MLinPL 2020 </br>
+[Hey, ML engineer! Is your model fair?](2020_12_Jakub_Wisniewski_Fairness_MLinPL.pdf), </br>
+Jakub Wiśniewski
+
+
 * XI 2019, CoNLL 2019 </br>
 [Named Entity Recognition - Is there a glass ceiling?](2019_11_Tomasz_Stanislawek_NER_CoNLL.pdf), </br>
 Anna Kozak
